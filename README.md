@@ -1,16 +1,28 @@
-# AI_Unlimited_Content
+<h1>AI_Unlimited_Content </h1>
 
-Openrouter
+<h2>Phần này sẽ nối kết tới FE vì nó là api</h2>
 
-N8N
+- Do phần AI tạo ảnh theo chủ đề và AI chat theo chủ đề có trả phí nên không dùng
+
+  <h2>N8N</h2>
+
+![image](https://github.com/user-attachments/assets/ac26dd67-c04e-4aa4-8a3f-cc2e71b0cd65)
 
 
-Settings Scheduler
+<h2>Openrouter</h2>
+
+![image](https://github.com/user-attachments/assets/20ae9f38-e54c-4562-9bd9-273bb3e00cb7)
+
+
+
+
+
+<h2>Settings Scheduler</h2>
 
 ![image](https://github.com/user-attachments/assets/d5342c2f-d1c6-4905-97f4-82ad1aaeb3c4)
 
 
-Code kiểm tra là bài viết mới đã đăng chưa nếu chưa thì đăng (không đăng bài cũ)
+<h2>Code kiểm tra là bài viết mới đã đăng chưa nếu chưa thì đăng (không đăng bài cũ)</h2>
 
 ![image](https://github.com/user-attachments/assets/03ae598c-4c9d-4d2b-b734-576a3410eca8)
 
@@ -39,17 +51,17 @@ return [{json:{
 ```
 
 
-Airtable  -> Chuẩn bị chủ đề  -> Lấy key trong builderhub
+<h2>Airtable  -> Chuẩn bị chủ đề  -> Lấy key trong builderhub</h2>
 
 ![image](https://github.com/user-attachments/assets/27c070f2-e25c-4564-a209-8e2e93016271)
 
 
-Setting Airtable  
+<h2>Setting Airtable  </h2>
 ![image](https://github.com/user-attachments/assets/63789f2f-6428-4958-b19e-706e72f32ad8)
 
 
 
-Settings HTTPS request -> phần này nếu có tiền có thể làm con CHATPPT
+<H2>Settings HTTPS request -> phần này nếu có tiền có thể làm con CHATPPT</H2>
 
 ```
 
@@ -84,4 +96,4 @@ Body : raw :  {
 
 
 
-![image](https://github.com/user-attachments/assets/20ae9f38-e54c-4562-9bd9-273bb3e00cb7)
+
