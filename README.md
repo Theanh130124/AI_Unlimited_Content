@@ -1,4 +1,4 @@
-<h1>AI_Unlimited_Content </h1>
+<h1>AI_Unlimited_Content </h1> (hoặc có thể phát triển thành nhiều AI dựa trên core này)
 
 <h2>Phần này sẽ nối kết tới FE vì nó là api</h2>
 
